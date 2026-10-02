@@ -9,7 +9,7 @@ Hi, I'm [Hope Rwenyo]
 - [ "Python", "HTML/CSS", "Machine Learning"]
 
 ## Current Projects
-- [Project name](link) — short description
+- [Project name]begginer — short description
 
 ## How to Reach Me
 - Email: [hoperwenyo176@gmail.com]
