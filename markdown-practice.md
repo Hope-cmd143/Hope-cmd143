@@ -18,8 +18,9 @@
   2.`git add `
   3. `git commit -m "Your descriptive commit message here"`
   4. `git push origin main`
- | TOOL | MR.CHACHA'S NOTES |
+  | TOOL | MR.CHACHA'S NOTES |
 | :--- | :--- |
-| PURPOSE | Self paced learning, DIY Tasks |
-| LINK | https://github.com/CardenDante/Introduction-To-Github-and-git/tree/main/03-markdown-basics |
+| **PURPOSE** | Self paced learning, DIY Tasks |
+| **LINK** | [Markdown Basics Guide](https://github.com/CardenDante/Introduction-To-Github-and-git/tree/main/03-markdown-basics) |
+
 Add markdown practice exercises
